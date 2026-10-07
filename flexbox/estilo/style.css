@@ -1,0 +1,33 @@
+.pai {
+   border: 2px solid;
+   width: 99%;
+   height: 500px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.header {
+    background-color: blue;
+    height: 70px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.aside {
+    background-color: red;
+    height: 400px;
+    width: 100px;
+    justify-content: start;
+}
+.main {
+    background-color: blueviolet;
+    height: 400PX;
+    width: 4000px;
+    justify-content: center;
+}
+.meio {
+    display: flex;
+}
+.footer {
+    
+}

@@ -1,0 +1,6 @@
+.caixa {
+    border: 2px solid blue;
+    width: 100px;
+    height: 100px;
+    overflow: auto;
+}
